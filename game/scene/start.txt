@@ -1,0 +1,11 @@
+;
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 
+intro:设计人：杨梦华 陈怡文 雷静;
+intro:你好|欢迎来到Eric的一天;
+changeBg:bg.png -next;
+setAnimation:enter-from-left -target=fig-left -next;
+Eric:欢迎来到我的一天;
+:;
+
+changeScene:2.txt

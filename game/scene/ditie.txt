@@ -1,0 +1,14 @@
+bgm:Keep.mp3;
+changeBg:ditie nei.jpg;
+changeBg:选择背景图片;
+intro:地铁行驶中，请大家抓好扶手以免摔倒………;
+changeBg:ditie nei.jpg -next;
+Eric正低头浏览今天的新闻;
+这时，一位女生走了过来停留在Eric的旁边;
+乘客B:指着蹲在一旁的大叔厉声说道：“我看看你的手机，你刚刚是在拍我吗？”;
+大叔否认了，并打开相册给女生查看，女生未获得偷拍证据，转而对大叔没礼貌地说：“小心一点，不要乱拍别人。”;
+setTextbox:on;
+:;
+intro:整个车厢的目光都聚集了过来，大叔仍然蹲在一旁觉得十分难堪，这时你会？;
+changeBg:yihuo2.jpg;
+choose:冷眼旁观:jieju3.txt|制止女生并要求其道歉:jieju4.txt;

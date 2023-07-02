@@ -1,0 +1,13 @@
+bgm:Home.mp3;
+changeBg:woshi.png;
+unlockBgm:Home.mp3 -name= Frozen Silence;
+playEffect:alarm bell.mp3;
+changeBg:naozhong.png;
+changeBg:canting.png;
+changeFigure:zhuozi.png;
+Eric:早起从一杯黑咖啡开始;
+changeFigure:none;
+:;
+changeBg:chumen.png;
+Eric:出门上班;
+changeScene:4.txt

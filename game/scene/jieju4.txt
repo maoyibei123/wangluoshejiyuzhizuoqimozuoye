@@ -1,0 +1,6 @@
+bgm:Happy Day.mp3;
+changeBg:zc2.jpg;
+changeBg:daoqian.jpg;
+intro:感谢你见过一些冷眼旁观，仍然留有伸出手帮助他人能力。;
+intro:恭喜玩家 通关成功|Eric是你 是我 是世界上千千万万个普通人之一|世界这么大|像你我这样的普通人要学会从爱与温暖中救赎自己|希望我们都能有对冷漠的世界说”不”的勇气;
+end;

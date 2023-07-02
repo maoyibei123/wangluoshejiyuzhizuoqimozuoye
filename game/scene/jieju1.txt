@@ -1,0 +1,6 @@
+:;
+playEffect:shache.mp3;
+changeBg:soujiu.jpg;
+changeBg:dalao.jpg;
+intro:情绪失控的代价，是一车人的生命|陌生人之间的冷漠或许一天会连及自身;
+end;

@@ -1,0 +1,5 @@
+bgm:Happy Day.mp3;
+changeBg:guolu.png;
+setTextbox:hide;
+intro:由于经济条件有限|Eric住在离公司较远的小区内|每天早高峰来回倒车上下班是Eric日常|快迟到啦!|点击乘坐交通工具，和Eric一起体验普通人的工作日常吧。;
+choose:公交:gj.txt|地铁:ditie.txt;

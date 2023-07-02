@@ -1,0 +1,6 @@
+bgm:s_Title.mp3;
+unlockBgm:;
+intro:Eric出生在一个平凡的家庭|顶着不起眼的外貌|接受着九年义务教育|不是学霸|没有什么特别的特长和爱好;
+intro:按部就班的毕了业|做着一份不好不坏的工作|期待着遇见一个爱人|这是不是你|普通人的人生;
+changeScene:3.txt
+bgm:none;

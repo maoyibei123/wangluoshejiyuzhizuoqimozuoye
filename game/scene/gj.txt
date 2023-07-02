@@ -1,0 +1,11 @@
+bgm:LIKPIA.mp3;
+changeBg:gongjiao.png;
+intro:车辆行驶中......;
+bgm:none;
+changeBg:zhengchao.png -next;
+乘客A:（忽然起身）：“我坐过站了，司机你快停一停车，我要下去！”;
+考虑到交通规则与其他乘客人身安全，司机并未理会乘客A。;
+乘客A见司机并未理会就开始对司机进行谩骂殴打，车上的乘客都倒吸了一口凉气，;
+Eric看了看周围，发现大家竟然都冷眼旁观，没有一人起来帮忙，眼看乘客A要开始抢夺司机的方向盘，Eric此时你会？;
+changeBg:gongjiaoyihuo.jpg;
+choose:冷眼旁观:jieju1.txt|制止乘客A:jieju2.txt;

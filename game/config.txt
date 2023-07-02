@@ -1,0 +1,5 @@
+Game_name:欢迎来到Eric的一天！;
+Game_key:f163dc1b18bc6;
+Package_name:;
+Title_bgm:bg.mp3;
+Title_img:bg.png;

@@ -1,0 +1,5 @@
+bgm:;
+changeBg:wangbao1.jpg;
+changeBg:wangbao2.jpg;
+intro:陌生人之间的冷漠或许一天会连及自身;
+end;
